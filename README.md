@@ -15,7 +15,7 @@ NOTE: We do not guarantee the quality of responses produced by this sample copil
 #### Use a pre-built development environment
 To get started quickly, you can use a pre-built development environment. **Click the button below** to open the repo in GitHub Codespaces, and then continue the readme!
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/Azure/aistudio-copilot-sample?quickstart=1)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/mangu/aistudio-copilot-sample?quickstart=1)
 
 Once you've opened in Codespaces you can proceed to the next step.
 

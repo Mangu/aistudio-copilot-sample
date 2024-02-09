@@ -8,7 +8,7 @@ import pathlib
 
 from azure.core.credentials import AzureKeyCredential
 from azure.search.documents.aio import SearchClient
-from azure.search.documents.models import RawVectorQuery
+
 
 from streaming_utils import add_context_to_streamed_response
 
